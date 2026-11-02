@@ -47,3 +47,39 @@ To set up a Java development environment, write and execute a Java program, and 
 
 ### Learning Outcome
 I practised writing Java output statements, compiling and running a program, and managing my source code using GitHub.
+
+
+## Week 3: Variables, Data Types, Expressions and Input/Output
+
+### Objectives
+- Understand and use variables and data types in Java.
+- Perform arithmetic calculations.
+- Accept keyboard input using Scanner.
+- Display results using print, println and printf.
+- Compile and test Java programs.
+
+### Programs
+1. `week03/SimpleCalculator.java`
+   - Calculates the sum, difference, product and quotient of two numbers.
+
+2. `week03/AverageCalculator.java`
+   - Calculates the total and average of three examination scores.
+
+3. `week03/ItemCost.java`
+   - Calculates the total cost of purchased items.
+
+### How to Run
+Open the terminal in the week03 folder.
+
+Compile:
+- javac SimpleCalculator.java
+- javac AverageCalculator.java
+- javac ItemCost.java
+
+Run:
+- java SimpleCalculator
+- java AverageCalculator
+- java ItemCost
+
+### Learning Outcome
+I learnt how to use variables, arithmetic operators and the Scanner class to accept input, perform calculations and display results. I also practised compiling, testing and running Java programs.
